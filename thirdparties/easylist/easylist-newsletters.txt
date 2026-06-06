@@ -1636,6 +1636,7 @@ chorus.fm###liner-notes
 unherd.com###login-form
 victorpest.com###ltkpopup-overlay
 audioholics.com###mail-list-button
+1017theone.ca,wingham.coolradio.ca###mailchimp-signup
 steamdeckhq.com###mailerlite-form_1
 allkpop.com,happens.vip,snowbrains.com,tokyohive.com###mailing-list
 museumcrush.org###mc-signup-iframe
@@ -2340,6 +2341,7 @@ childrenshealthdefense.org##.chd-defender-article__signup
 childrenshealthdefense.org##.chd-defender-widget--sms-alerts
 childrenshealthdefense.org##.chd-defender__sign-up
 childrenshealthdefense.org##.chd-shortcode-news-tips
+etsy.com##.chrome-footer__etsy-finds
 androidpcreview.com,raptitude.com,thelittlekitchen.net##.ck_form_container
 iliketomakestuff.com##.ck_vertical_subscription_form
 aseannow.com##.cl-dialog
@@ -3952,6 +3954,7 @@ sportsline.com,theinfatuation.com##[data-testid="newsletter"]
 thurrott.com##[data-thurrott-layout-section-footer-section="newsletter"]
 thurrott.com##[data-thurrott-section="inline-form"]
 ft.com##[data-trackable="story:related-promo"]
+townandcountrymag.com##[data-vars-block-type="Newsletter"]
 torontosun.com##[data-widget="newsletter"]
 oann.com##[href="/alerts"]
 tfn.scot##[href="/bulletin"]
@@ -4065,6 +4068,7 @@ cheknews.ca#?#div.wp-block-cover:has-text(Be the first to know)
 christiantoday.com#?#.p-3.border-0:has-text(Stay up to date)
 chron.com,sfgate.com#?#.col1span3:has-text(Newsletters)
 cjr.org#?#.row > .entry-content > p:has-text(daily newsletter)
+cknxnewstoday.ca#?#.widgets_widgetWrapper__XqJPi:has-text(Join our community)
 cockroachlabs.com#?#.p-4.bg-\[\#F5F5F5\]:has-text(Subscribe to our newsletter)
 coder.com#?#.MuiBox-root:has-text(Subscribe to our Newsletter)
 collaboraonline.com#?#.e-child.e-con-boxed.e-flex.elementor-element:has-text(Subscribe to our newsletter:)
@@ -4130,6 +4134,7 @@ hot-dinners.com#?#.d-lg-block.sp-module:has-text(newsletter)
 ign.com#?#.box-wrapper:has-text(Stay up to date)
 iheartrecipes.com#?#.wp-block-genesis-blocks-gb-columns:has-text(Subscribe by Email)
 iheartrecipes.com#?#.wp-block-genesis-blocks-gb-container:has-text(Free Email Guide)
+inc.com#?#.lg\:gap-3.lg\:justify-between:has-text(SIGN UP)
 inc.com#?#.lg\:gap-3:has-text(Weekly roundup)
 interestingengineering.com#?#.t-bg-surface-zero.t-p-6:has-text(Newsletter)
 inverse.com#?#.msl:has-text(Subscribe for free)
